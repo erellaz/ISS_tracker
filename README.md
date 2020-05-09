@@ -1,5 +1,5 @@
 # ISS_tracker
-For astronomer wanting to track the ISS (or any other earth satellite) in the sky with their ASCOM compatible telescope mount. This python program will pilot the telescope mount. 
+For astronomer wanting to track the ISS (or any other earth satellite) in the sky with their ASCOM compatible telescope mount. This python program will pilot the telescope mount. It was originally written in Python 2 then futurized to Python 3 and should work with both versions.
 
 
 # Dependencies
